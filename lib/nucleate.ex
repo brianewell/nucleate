@@ -1,18 +1,18 @@
 defmodule Nucleate do
-  @moduledoc """
-  Documentation for `Nucleate`.
-  """
+	@moduledoc """
+	Documentation for `Nucleate`.
+	"""
 
-  @doc """
-  Hello world.
+	@doc """
+	Hello world.
 
-  ## Examples
+	## Examples
 
-      iex> Nucleate.hello()
-      :world
+		iex> Nucleate.hello()
+		:world
 
-  """
-  def hello do
-    :world
-  end
+	"""
+	def hello do
+		:world
+	end
 end
