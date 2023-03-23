@@ -1,4 +1,8 @@
-Nucleate [![hex.pm downloads](https://img.shields.io/hexpm/dd/nucleate)](https://hex.pm/packages/nucleate) ![hex.pm license](https://img.shields.io/hexpm/l/nucleate) ![hex.pm version](https://img.shields.io/hexpm/v/nucleate)
+Nucleate
+![hex.pm downloads](https://img.shields.io/hexpm/dd/nucleate)
+![hex.pm license](https://img.shields.io/hexpm/l/nucleate)
+![hex.pm version](https://img.shields.io/hexpm/v/nucleate) 
+![cirleci build](https://img.shields.io/circleci/build/github/brianewell/nucleate)
 ===============
 
 A platform engineering utility for software engineers.
