@@ -1,2 +1,2 @@
-# nucleate
-platform engineering for software engineers
+# Nucleate
+Platform engineering for software engineers.
