@@ -16,7 +16,7 @@ by adding `nucleate` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:nucleate, "~> 0.0.1-pre"}
+    {:nucleate, "~> 0.0.1"}
   ]
 end
 ```
