@@ -4,10 +4,11 @@ defmodule Nucleate.MixProject do
 	def project do
 		[
 			app: :nucleate,
-			version: "0.0.1",
+			version: "0.0.0-pre",
 			elixir: "~> 1.14",
 			build_embedded: Mix.env == :prod,
 			start_permanent: Mix.env() == :prod,
+			escript: [main_module: Nucleate.CLI],
 			description: description(),
 			package: package(),
 			deps: deps()
@@ -29,6 +30,8 @@ defmodule Nucleate.MixProject do
 
 	defp package do
 		[
+			licenses: ["MPL-2.0"],
+			links: %{"GitHub" => "https://github.com/brianewell/nucleate"}
 		]
 	end
 

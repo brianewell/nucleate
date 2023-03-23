@@ -1,8 +1,10 @@
-# Nucleate
+Nucleate [![hex.pm downloads](https://img.shields.io/hexpm/dd/nucleate)](https://hex.pm/packages/nucleate) [hex.pm license](https://img.shields.io/hexpm/l/nucleate) [hex.pm version](https://img.shields.io/hexpm/v/nucleate)
+===============
 
 A platform engineering utility for software engineers.
 
-## Installation
+Installation
+---------------
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `nucleate` to your list of dependencies in `mix.exs`:
@@ -10,7 +12,7 @@ by adding `nucleate` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:nucleate, "~> 0.1.0"}
+    {:nucleate, "~> 0.0.0-pre"}
   ]
 end
 ```
