@@ -4,7 +4,7 @@ defmodule Nucleate.MixProject do
 	def project do
 		[
 			app: :nucleate,
-			version: "0.0.0-pre",
+			version: "0.0.1-pre",
 			elixir: "~> 1.14",
 			build_embedded: Mix.env == :prod,
 			start_permanent: Mix.env() == :prod,
